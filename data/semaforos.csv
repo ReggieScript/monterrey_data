@@ -1,0 +1,701 @@
+id,calle_principal,numero,calle_secundaria,tipo_controlador,tipo
+"1",16 De Septiembre,"1",Colima,,
+"2",16 De Septiembre,"2",Nuevo Leon,C26,
+"3",16 De Septiembre,"3",San Luis Potosi,C26,
+"4",16 De Septiembre,"4",Tlaxcala,C26,
+"5",16 De Septiembre,"5",Vallarta,C26,
+"6",2 De Abril ,"6",Hilario Martinez,C26,
+"7",2 De Abril,"7",Baja California,C26,
+"8",2 De Abril,"8",Chiapas,,
+"9",2 De Abril,"9",Palestina,C-2000,
+"10",2 De Abril,"10",Paricutin,C26,
+"11",2 De Abril,"11",Pirineos,C-2000,
+"12",2 De Abriil,"12",Sinaloa,C26,
+"13",2 De Abril,"13",Tepic,C26,
+"14",5 De Febrero,"14",Nuevo Leon,C26,
+"15",5 De Febrero,"15",San Luis Potosi,C26,
+"16",5 De Mayo,"16",Bravo,C26,
+"17",Aaron Saenz,"17",Arnulfo S. Garza,C-2000,
+"18",Aaron Saenz,"18",Manuel J. Clouhtier,C-2000,
+"19",Aaron Saenz,"19",Puente La Unidad,C-2000,
+"20",Aaron Saenz,"20",Rogelio Cantu Gomez,C-2000,
+"21",Alejandro Rodas,"21",Cumbres Elite,C 200,
+"22",Alejandro  De Rodas,"22",Hacienda Pañuelas,C-2000,
+"23",Alejandro De Rodas,"23",Paseo De Las Estrellas,C26,
+"24",Alejandro De Rodas,"24",Pedregal De Las Colinas,C26,
+"25",Alejandro De Rodas,"25",Pedro Infante,C 200,
+"26",Alejandro De Rodas,"26",Seguridad Social,C26,
+"27",Alfonso Reyes,"27",Acuaeducto,C 200,
+"28",Alfonso Reyes,"28",Henrry Dunnant,C26,
+"29",Almazan,"29",Anillo Metropolitano (la Aurora),C200,
+"30",Almazan,"30",Bernardo Reyes,C26,
+"31",Almazan,"31",Rodrigo Gomez,C26,
+"32",Almazan,"32",San Martin,C26,
+"33",Almazan,"33",Teran,,
+"34",Alvarez,"34",5 De Mayo,C26,
+"35",Alvarez,"35",Carlos Salazar,C26,
+"36",Alvarez,"36",Espinoza,C26,
+"37",Alvarez,"37",M.m. De Llano,,
+"38",Alvarez,"38",Ruperto Martinez,C26,
+"39",Alvarez,"39",Treviño,C26,
+"40",Amado Nervo,"39",Espinosa,,
+"41",Amado Nervo,"41",J.m. Herrera,C26,
+"42",Amado Nervo,"42",M.m. De Llano,C26,
+"43",Amado Nervo,"43",Treviño,,
+"44",America,"44",Reforma,C 200,
+"45",America,"45",Ruperto Martinez,C200,
+"46",America,"46",Treviño,C200,
+"47",Antiguocaminoavilla De Santiago,"47",Cervera Delrio,C200,
+"48",Antiguo Camino A Villa De Santiago,"48",El Vergel,C200,
+"49",Antiguos Ejidatarios,"49",Tramoyistas,C-2000,
+"50",Antonio I. Villarreal,"50",Francisco Beltran,C26,
+"51",Arteaga,"51",20 De Noviembre,C-26,
+"52",Arteaga,"52",Amado Nervo,,
+"53",Arteaga,"53",America,C-2000,
+"54",Arteaga,"54",Miguel Nieto,C-200,
+"55",Ayutla ,"55",Hilario Martinez,C-200,
+"56",Ayutla,"56",Michoacan,C-200,
+"57",Ayutla,"57",Paricutin,C-26,
+"58",Aztlan,"58",Apolo,C-26,
+"59",Aztlan,"59",Azteca,C-26,
+"60",Aztlan,"60",B Mitre,C-200,
+"61",Aztlan,"61",Cabezada,C-200,
+"62",Aztlan,"62",Compostela,C-26,
+"63",Aztlan,"63",Coyoacan,C-26,
+"64",Aztlan,"64",Esquisto,,
+"65",Aztlan,"65",Las Rocas,C-26,
+"66",Aztlan,"66",Manzana,C26,
+"67",Aztlan,"67",No Recoleccion,C26,
+"68",Aztlan,"68",Palacio De Justicia,,
+"69",Aztlan,"69",Rangel Frias,,
+"70",Aztlan,"70",Tlatelolco,C26,
+"71",Aztlan,"71",Uxmal,C26,
+"72",B. Mitre,"72",Camino Real,C26,
+"73",B Mitre,"73",Julio A. Roca,,
+"74",B. Mitre,"74",La Esperanza,,
+"75",Bernardo Reyes,"76",Apodaca,C-200,
+"76",Bernardo Reyes,"77",Fco. Lagos,C-200,
+"77",Bernardo Reyes,"78",Fco. Leon De La Barra,C-2000,
+"78",Bernardo Reyes,"79",Fidel Velazquez,C-2000,
+"79",Bernardo Reyes,"80",Mariano Salas,C-2000,
+"80",Bernardo Reyes,"81",Palacio De Justicia,C-200,
+"81",Beranrdo Reyes,"82",Romulo Diaz De La Vega,C-200,
+"82",Bernardo Reyes,"83",Santiago,,
+"83",Cabezada,"85",Antiguos Ejidatarios,C-200,
+"84",Cabezada,"86",De La Pradera,C26,
+"85",Cabezada,"87",Del Pastizal,C26,
+"86",Cabezada,"88",Marco,C-200,
+"87",Cabezada,"89",Nepanta,C26,
+"88",Cabezada,"90",Palmin,C-26,
+"89",Camino Al Mirador,"91",Acueducto,C-200,
+"90",Camino Al Mirador,"92",Primavera,,
+"91",Camino Real,"93",3a. De Ruteros,C-26,
+"92",Camino Real,"94",Apolo,C-26,
+"94",Camino Real,"96",Hermanos Flores Magon,C-26,
+"95",Camino Real,"97",Jose Santos Palomo,C-26,
+"96",Camino Real,"99",Obrero Mundial,C-26,
+"97",Camino Real,"100",Uniones,C-26,
+"98",Campos Eliseos,"102",Primavera,,
+"99",Carlos Salazar,"103",Amado Nervo,C-26,
+"100",Carlos Salazar,"104",America,C-200,
+"101",Carlos Salazar,"105",Colegio Civil,C-26,
+"102",Carlos Salazar,"106",Diego De Montemayor,C-26,
+"103",Carlos,"107",Emilio Cararnaza,c-26,
+"104",Carlos Salazar,"108",Jimenez,C-26,
+"106",Carlos Salazar,"110",Martin De Zavala,C-26,
+"107",Carlos Salazar,"111",Miguel Nieto,,
+"108",Carlos Salazar,"112",Platon Sanchez,C-26,
+"109",Carlos Salazar,"113",Vallarta,C-26,
+"110",Carretera Nacional,"114",La Estanzuela,C-200,
+"111",Chapultepec,"115",3ra. Zona,C-200,
+"112",Churubsco,"116",Francisco Beltran,,
+"113",Churubusco,"117",Via Tampico,C-26,
+"114",Colon Yt Vicente Suarez,"118",,C-2000,
+"115",Comision De Tripartita,"119",Del Trabajo,C-26,
+"116",Cuauhtemoc,"120",Reforma,C-26,
+"117",Degollado,"121",Matamoros,C-200,
+"118",Descubridores,"122",Juan De Ayolas,,
+"119",Diego De Montemayor,"123",Espinoza,C-26,
+"120",Diego De Montemayor,"125",Ruperto Martinez,C-26,
+"121",Diego De Montemayor,"124",Reforma,C-26,
+"123",Dr. Coss,"127",Carlos Salazar,C-26,
+"124",Dr. Coss,"128",Espinosa,C-26,
+"125",Dr.coss,"129",Matamoros,C-26,
+"126",Dr. Coss,"130",Raymundo Jardon,C-26,
+"127",Dr. Coss,"131",Ruperto Martinez,C-26,
+"128",Edison,"132",Anaya,C-26,
+"129",Edison,"133",Lombardini,C-26,
+"130",Edison,"134",Pedro Velez,C-26,
+"131",Emiliano Zapata,"135",Luis Echeverria,C-26,
+"132",Emilio Carranza,"136",5 De Mayo,C-26,
+"133",Emilio Carranza,"137",Espinosa,,
+"134",Emilio Carranza,"138",Ruperto Martinez,C-26,
+"135",Escobedo,"139",15 De Mayo,C-26,
+"136",Escobedo,"140",5 De Mayo,C-26,
+"137",Escobedo,"141",Allende,,
+"138",Fidel Velazquez,"142",Penitencieria,C-26,
+"139",Fidel Velazquez,"143",Rodrigo Gomez,,
+"140",Francisco Marquez,"144",Carlos Salazar,,
+"141",Fundadores,"145",Adolfolaubner,,
+"142",Fundadores,"146",Cazadores De Galeana,C-200,
+"143",Galeana,"147",15 De Mayo,,
+"145",Galeana,"148",5 De Mayo,C-26,
+"146",Galeana,"149",Ruperto Martinez,C-26,
+"147",Garza Sada,"150",Salto Del Agua,,
+"149",Gobernadores,"151",Rangel Frias,C-2000,
+"150",Gonzalitos,"152",Volcan De Jusco,,
+"151",Guerrero,"153",15 De Mayo,C-26,
+"152",Guerrero,"154",5 De Mayo,,
+"153",Guerrero,"155",Los Angeles,C-2000,
+"154",Hidalgo,"156",20 De Noviembre,,
+"155",Hidalgo,"157",Degollado,C-26,
+"156",Hidalgo,"158",Picachos,C-26,
+"157",Hidalgo,"159",Porfirio Diaz,,
+"158",Hidalgo,"160",Sierra Madre,,
+"159",Insurgentes,"161",1ra Avenida,C-26,
+"160",Insurgentes,"162",Aaron Saenz,C-2000,
+"161",Insurgente,"163",Puerta Del Sol,C-26,
+"162",Insurgentes,"164",San Jemo,C-26,
+"163",J. Cantu Leal,"165",Jose Alvarado,C-26,
+"164",Jose Angel Conchello,"166",Constituyentes Del 57,,
+"165",Jose Angel Conchello,"167",Emiliano Zapata,C-26,
+"166",Julio A. Roca,"168",Apolo,,
+"167",Julio A. Roca ,"169",Marco,C-2000,
+"168",Junco De La Vega,"170",Pirineos,C-2000,
+"169",La Rioja,"171",Cervera Del Rio,C-2000,
+"170",Las Rocas,"172",Andesitas,C-26,
+"171",Las Rocas,"173",Las Huertas,,
+"172",Las Rocas,"174",Marmol,C-26,
+"173",Las Rocas,"175",Oceano Artantico,C-26,
+"174",Las Rocas,"176",Porfido,C-26,
+"175",Lazaro Cardenas,"177",Insurgentes,C-26,
+"176",Lazaro Cardenas,"178",Rio Nazas,C-26,
+"177",Lazaro Cardenas,"179",Josefa Ortiz De Dominguez,c-26,
+"179",Libertad H Hilario Martinez,"181",,,
+"180",Libertad,"182",Baja California,,
+"181",Libertad,"183",Chiapas,,
+"182",Libertad,"184",Nuevo Leon,C-26,
+"183",Libertad,"185",Paricutin,,
+"184",Libertad,"186",Sinaloa,,
+"185",Libertad,"187",Tepic,,
+"186",Los Angeles,"188",Diego Diaz De Berlanga,C-2000,
+"187",Los Angeles,"189",Felix U. Gomez,C-2000,
+"188",Luis Donaldo Colosio,"190",Del Centro Del Norte,C-26,
+"189",Luis Elizondo,"191",Rio Aguanaval,C-26,
+"190",Luis Elizondo,"192",Rio Panuco,C-200,
+"191",Luis Mora,"193",General Anaya,C-26,
+"192",Luis Mora,"194",Villagran,,
+"193",Madero,"195",Vicente Suarez,,
+"194",Magallanes,"196",Emilio Carranza,C-26,
+"195",Manuel L. Barragan,"197",Mariano Salas,,
+"197",Miguel Nieto,"198",M.m. De Llano,C-200,
+"198",Miguel Nieto,"199",Reforma,C-2000,
+"199",Miguel Nieto,"200",Rupuerto Martinez,C-200,
+"200",Morones Prieto,"201",Dr. Roberto J. Cantu,C-200,
+"201",Morones Prieto,"202",España,C-200,
+"202",Morones Prieto,"203",Pio X,,
+"203",Morones Prieto,"204",San Francisco,,
+"205",Nepenta,"205",Farolillo,C-26,
+"206",Nogal,"206",Abedul,C-26,
+"207",Nogal,"207",Zapopan,C-26,
+"208",Oceano Antartico,"208",Mar Tirreno,C-26,
+"209",Oceano Antartico,"209",Tlatelolco,C-26,
+"210",Pablo A. De La Garza,"210",Jose Marti,,
+"212",Padre Mier,"212",20 De Noviembre,C-200,
+"213",Paseo De Las Estrellas,"213", Los Triunfadores,C-26,
+"214",Paseo De Los Leones,"214",Insurgentes,C-2000,
+"215",Paseo De Los Leones,"215",Cumbres Del Sol,C-200,
+"216",Paseo De Los Leones,"216",Cumbre Elite,C-200,
+"217",Paseo De Los Leones,"217",De La Cima,C-200,
+"218",Paseo De Los Leones,"218",Descubridores,C-2000,
+"219",Paseo De Los Leones,"219",Jordan,C-26,
+"220",Paseo De Los Leones,"220",Paseo De Cumbres,C-200,
+"221",Paseo De Los Leones,"221",Puerta De Hierro,C-200,
+"222",Paseo De Los Leones,"222",Sevilla,C-200,
+"223",Pedro Martinez,"223",Tepic,C-200,
+"224",Penitenciaria,"224",Federico Idar,,
+"225",Pino Suares,"225",Reforma,,
+"226",Pio,"226",16 De Septiembre,,
+"227",Pio X,"227",5 De Septiembre,C-26,
+"228",Platon Sanchez,"228",Espinoza,,
+"229",Platon Sanchez,"229",Pedro Noriega,C-26,
+"230",Platon Sanchez,"230",Reforma,C-26,
+"231",Platon Sanchez,"231",Ruperto Martinez,C-26,
+"232",Portal Del Huajuco,"232",Antiguo Camino A Santiago,C-200,
+"233",Progreso,"233",San Nicolas,C-26,
+"234",Prol. Madero,"234",Hermanos Flores Magon,,
+"235",Rangel Frias,"235",No Reeleccion,C-200,
+"236",Reforma,"236",Juan N. Mendez,C-26,
+"237",Ricardo Covarrubias,"237",Peñarol,,
+"238",Rio Nazas,"238",Isabel De Farnesio,C-26,
+"239",Rio Nazas,"239",Peseo Ma. Guadalupe,C-26,
+"240",Rio Nazas,"240",Santos Cantu Salinas,C-25,
+"241",Rio Panuco,"241",Av. Del Estado,C-26,
+"242",Rio Panuco,"242",Palestina,c-26,
+"243",Rio Panuco,"243",Paricutin,C-26,
+"244",Rio Panuco,"244",Rio Aguanaval,C-26,
+"245",Rodrigo Gomez,"245",Palacio De Justicia,C26,
+"246",Rodrigo Gomez,"246",Penitencieria,,
+"247",Rodrigo Gomez,"247",Rangel Frias,C-2000,
+"248",Rodrigo Gomez,"248",San Bernabe,,
+"249",Rodrigo Gomez,"249",San Martin,C-26,
+"250",Regelio Cantu Gomez,"250",Anillo Periferico,C-2000,
+"251",Ruiz Cortines,"251",Cd. Limon,C-26,
+"252",Ruiz Cortinez,"252",Cerro De Las Mitras,C-26,
+"253",Ruiz Cortines,"253",Cisne,,
+"254",Ruiz Cortines,"255",Del Trabajo,C-26,
+"255",Ruiz Cortines,"256",Del Trabajo,C-26,
+"256",Ruiz Cortines,"257",Leon Xii (sauce),C-26,
+"257",Ruiz Cortinez,"258",Ma. De Jesus Candia,C-26,
+"258",Ruiz Cortines,"259",Montes Everest,C-200,
+"259",Ruiz Cortines,"260",Nogal,C-26,
+"260",Ruiz Cortines,"261",Nueva Inglaterra,C-26,
+"261",Ruiz Cortines,"262",Olivo,,
+"262",Ruiz Cortines,"263",Paseo De Cumbres,C-200,
+"263",Ruiz Cortines,"264",Pedro Infante,C-26,
+"264",Ruiz Cortines,"266",Pinguino,C-26,
+"265",Ruiz Cortines,"267",Puerta De Hierro,C-200,
+"266",Ruiz Cortines,"268",Rangel Frias,C-26,
+"267",Ruiz Cortines,"269",Real De Cumbres,,
+"268",Ruiz  Cortines,"271",San Jose,C-26,
+"269",Ruiz  Cortines,"272",Seguridad Social,C-26,
+"270",Ruperto Martinez,"273","Juan N, Mendez",C-26,
+"271",Treviño,"277",Colegio Civil,,
+"272",San Bernabe,"274",Nuevo Mexico,C-26,
+"273",San Francisco,"275",Loma Redonda,,
+"274",Treviño,"278",Juan N. Mendez,C-2000,
+"275",Universidad,"279",Salida Del Campo Militar,C-26,
+"276",Valle Alto,"280",Sierra Alta,C-200,
+"277",Venustiano Carranza,"281",16 De Septiembre,C-200,
+"278",Villagran,"282",15 De Mayo,C-26,
+"279",Villagran,"283",5 De Mayo,C-26,
+"280",Villagran,"284",Espinosa,C-26,
+"281",Villagran,"284",General Anaya,C-26,
+"282",Villagran,"286",Guadalupe Victoria,C-26,
+"283",Villagran,"287",M. M. Llano,C-26,
+"284",Villagran,"288",Ruperto Martinez,C-26,
+"285",Zapopan,"289",De La Cima,C-26,
+"286",Zapopan,"290",Las Palmas,C-26,
+"287",Zapopan,"291",San Jose,C-26,
+"288",Zaragoza,"292",Magallanes,C-26,
+"289",Zempoala,"293",Azteca,C-26,
+"290",Zempoala,"294",Coyoacan,C-26,
+"291",Zempoala,"295",Uxmal,C-26,
+"292",Adolfo Prieto,"296",Francisco Marquez,C-2000,SINTRAM
+"293",Adolfo Prieto,"297",Fundidora,,SINTRAM
+"294",Alfonso Reyes,"299",Fresador,,SINTRAM
+"295",Alfonso Reyes,"300",General Anaya,C-2000,SINTRAM
+"296",Alfonso Reyes,"301",Guadalupe Victoria,C-2000,SINTRAM
+"297",Alfonso Reyes,"302",Junco De La Vega,,SINTRAM
+"298",Alfonso Reyes,"303",Leopoldo Gonzalez Saenz,,SINTRAM
+"299",Alfonso Reyes,"304",Luis Mora,,SINTRAM
+"300",Alvarez,"305",Isaac Garza,C-200,SINTRAM
+"301",Alvarez,"306",Aramberri,,SINTRAM
+"302",Alvarez,"307",Arteaga,,SINTRAM
+"303",Alvarez,"308",Carlos Salazar,,SINTRAM
+"304",Alvarez,"309",Tapia,,
+"305",Alvarez,"310",Washington,,SINTRAM
+"306",Amado Nervo,"311",Isaac Garza,,SINTRAM
+"307",Amado Nervo,"312",Tapia,,SINTRAM
+"308",America,"313",Isaac Garza,C-200,SINTRAM
+"309",America,"314",Aramberri,,SINTRAM
+"310",America,"315",Tapia,,SINTRAM
+"311",America,"316",Washington,,SINTRAM
+"312",Antonio I. Villareal,"317",Prol. Madero,C-2000,SINTRAM
+"313",Antonio L. Rodriguez,"318",Puente De La Unidad,,SINTRAM
+"314",Aramberri,"320",Bravo,,SINTRAM
+"315",Aramberri,"321",Amado Nervo,,SINTRAM
+"316",Aramberri,"322",Escobedo,,SINTRAM
+"317",Aramberri,"323",Juan N. Mendez,,SINTRAM
+"318",Aramberri,"325",Vallarte,,SINTRAM
+"319",Aramberri,"324",Serafin Peña,C-2000,SINTRAM
+"320",Arteaga,"326",Colegio Civil,,SINTRAM
+"321",Arteaga,"327",Diego De Montemayor,C-2000,SINTRAM
+"322",Arteaga,"328",Amado Nervo,,
+"323",Arteaga,"329",Edison,,SINTRAM
+"324",Arteaga ,"330",Emilio Carranza,,SINTRAM
+"325",Arteaga,"331",Galeana,,SINTRAM
+"326",Arteaga,"332",J. G. Leal,,SINTRAM
+"327",Arteaga,"333",Juan N. Mendez,C-2000,SINTRAM
+"328",Arteaga,"334",Platon Sanchez,C-2000,SINTRAM
+"329",Varteaga,"335",Villagomez,,SINTRAM
+"330",Bernardo Reyes,"336",General Anaya,,SINTRAM
+"331",Bernardo Reyes,"337",Guadalupe Victoria,,SINTRAM
+"332",Bernardo Reyes,"338",Luis Mora,C-2000,SINTRAM
+"333",Bernardo Reyes,"339",Melchor Muzquiz,C-2000,SINTRAM
+"334",Bernardo Reyes,"340",Miguel Barragan,,SINTRAM
+"335",Bernardo Reyes,"341",Miguel Dominguez,C-2000,SINTRAM
+"336",Bernardo Reyes,"342",Reforma,,SINTRAM
+"337",Chapultepec,"344",Agustin Lara,,SINTRAM
+"338",Chapultepc,"345",Agustin Lara 2,"0",SINTRAM
+"339",Chapultepec,"346",Elias Reynoso,C-200,SINTRAM
+"340",Chapultepec,"348",Ladrillera,C-2000,SINTRAM
+"341",Churubusco,"349",Prol. Madero,,SINTRAM
+"342",Colon,"350",Antonio I. Villa Real,,SINTRAM
+"343",Colon,"351",Bernardo Reyes,,SINTRAM
+"344",Colon,"352",Cananea,,SINTRAM
+"345",Colon,"353",Colegio Civil,,SINTRAM
+"346",Colon,"354",Degollado,,SINTRAM
+"347",Colon,"355",Diego De Montemayor,,SINTRAM
+"348",Colon,"356",Edison,,SINTRAM
+"349",Colon,"357",Emilio Carranza,,
+"350",Colon,"358",Felix U. Gomez,C-2000,SINTRAM
+"351",Colon,"359", GALEANA Y LUIS MORA,,
+"352",Colon,"360",Guerrero,C-2000,SINTRAM
+"353",Colon,"362",Madero,,SINTRAM
+"354",Colon,"363",Miguel Nieto,C-2000,SINTRAM
+"355",Colon,"362",Madero,,SINTRAM
+"356",Colon,"364",Nuevo Rosita,,SINTRAM
+"357",Colon,"365",Pablo A. De La Garza,C-2000,SINTRAM
+"358",Colon,"366",Platon Sanchez,C-2000,SINTRAM
+"359",Colon,"368",Villagran,C-2000,SINTRAM
+"360",Colon,"369",Zaragoza,,
+"361",Colon,"370",Zuazua,,
+"362",Cuauhtemoc,"371",Hidalgo,C-2000,SINTRAM
+"363",Cuauhtemoc,"372",Isaac Garza,C-2000,SINTRAM
+"364",Cuauhtemoc,"373",15 De Mayo,C-2000,SINTRAM
+"365",Cuauhtemoc,"374",5 De Mayo,C-2000,SINTRAM
+"366",Cuauhtemoc,"375",Aramberri,C-2000,SINTRAM
+"367",Cuauhtemoc,"376",Arteaga,C-2000,SINTRAM
+"368",Cuauhtemoc,"377",Carlos Salazar,C-2000,SINTRAM
+"369",Cuauhtemoc,"378",Colon,C-2000,SINTRAM
+"370",Cuauhtemoc,"379",Espinosa,C-2000,SINTRAM
+"371",Cuauhtemoc,"280",Juan I. Ramon,C-2000,
+"372",Cuauhtemoc,"281",M. M. De Llano,C-2000,
+"373",Cuauhtemoc,"282",Madero,,
+"374",Cuauhtemoc,"383",Matamoros,C-2000,SINTRAM
+"375",Cuauhtemoc,"384",Modesto Arreola,C-2000,SINTRAM
+"376",Cuauhtemoc,"285",Ocampo,C-2000,
+"377",Cuauhtemoc,"386",Padre Mier,C-2000,SINTRAM
+"378",Cuauhtemoc,"287",Ruperto Martinez,C-2000,
+"379",Cuauhtemoc,"388",Tapia,C-2000,SINTRAM
+"380",Cuauhtemoc,"389",Treviño,C-2000,SINTRAM
+"381",Cuauhtemoc,"390",Washington,C-2000,SINTRAM
+"382",Diaz Ordaz,"391",Camino Al Tiro,C-2000,SINTRAM
+"383",Diaz Ordaz,"392",Puente De La Unidad,C-2000,SINTRAM
+"384",Diaz Ordaz,"393",San Pedro,,SINTRAM
+"385",Diego Montemayor,"395",Isaac Garza,,SINTRAM
+"386",Diego Montemayor,"396",Aramberri,,SINTRAM
+"387",Diego Montemayor,"397",Padre Mier,,SINTRAM
+"388",Diego Montemayor,"398",Tapia,,SINTRAM
+"389",Diego Montemayor,"399",Aramberri,C-2000,SINTRAM
+"390",Cr. Coss,"400",Arteaga,,
+"391",Dr. Coss,"401",Isaac Garza,,SINTRAM
+"392",Dr. Coss,"403",Aramberri,,SINTRAM
+"393",Dr. Coss,"404",Juan I. Ramon,,SINTRAM
+"394",Dr. Coss,"407",Washinton,,SINTRAM
+"395",Dr. Coss,"405",Padre Mier,C-2000,SINTRAM
+"396",Dr. Coss,"406",Tapia,C-2000,SINTRAM
+"397",Edison,"408",Luis Mora,,SINTRAM
+"398",Emilio Carranza,"409",Isaac Garza,,SINTRAM
+"399",Emilio Carranza ,"410",Aramberri,,SINTRAM
+"400",Emilio Carranza,"411",Reforma,,SINTRAM
+"401",Emilio Carranza,"412",Tapia,,SINTRAM
+"402",Enrique C. Livas,"414",Canada,C-2000,SINTRAM
+"403",Enrique C. Livas,"415",Terranova,C-2000,SINTRAM
+"404",Escobedo,"416",Juan I. Ramon,C-2000,SINTRAM
+"405",Escobedo,"417",Matamoros,C-2000,SINTRAM
+"406",Escobedo,"418",Padre Mier,C-2000,SINTRAM
+"407",Emilio Carranza,"413",Washington,,SINTRAM
+"408",Escobedo,"419",Washington,,SINTRAM
+"409",Felix U Gomez,"420",Libertad,,SINTRAM
+"410",Felix U Gomez,"421",Independencia,,SINTRAM
+"411",Felix U Gomez,"422",Isaac Garza,C-2000,SINTRAM
+"412",Felix U Gomez,"423",Aramberri,C-200,SINTRAM
+"413",Feliz U. Gomez,"424",Arteaga,C-200,SINTRAM
+"414",Felix U Gomez,"425",Carlos Salazar,,SINTRAM
+"415",Felix U Gomez,"426",Jesus M. Garza,,
+"416",Felix U Gomez,"427",Jose Angel Conchello,C-2000,SINTRAM
+"417",Felix U. Gomez,"428",Plan De Yutla,C-2000,SINTRAM
+"418",Felix U. Gomez,"429",Tapia,,SINTRAM
+"419",Felix U. Gomez,"430",Treviño,,SINTRAM
+"420",Fernando Montes De Oca,"431",Isaac Garza,,SINTRAM
+"421",Fernando Montes De Oca,"432",Adolfo Prieto,,SINTRAM
+"422",Francisco Marquez,"433",Isaac Garza,C-2000,SINTRAM
+"423",Fundidora,"434",Salida De Cintermex,,SINTRAM
+"424",Galeana,"435",Isaac Garza,C-2000,SINTRAM
+"425",Galeana,"436",Aramberri,,SINTRAM
+"426",Galeana,"437",Carlos Salazar,,
+"427",Galeana,"438",Espinosa,,SINTRAM
+"428",Galeana,"439",Juan I. Ramon,,SINTRAM
+"429",Galeana,"440",Padre Mier,,SINTRAM
+"430",Galeana,"441",Reforma,,SINTRAM
+"431",Galeana,"442",Tapia,,SINTRAM
+"432",Galeana,"443",Washington,,SINTRAM
+"433",Garza Sada,"444",2 De Abril,C-2000,SINTRAM
+"434",Garza Sada,"445",Alfonso Reyes,C-2000,SINTRAM
+"435",Garza Sada,"446",Av. Del Estado,C-2000,SINTRAM
+"436",Garza Sada,"447",Bulevar Acapulco,C-2000,SINTRAM
+"437",Garza Sada,"448",Luis Elizondo,C-2000,SINTRAM
+"438",Gonzalitos,"449",Madero,C-2000,SINTRAM
+"439",Gonzalitos,"450",Madera ( Sudamerica),C-2000,SINTRAM
+"440",Gonzalitos,"451",Pablo Gonzalez,C-2000,SINTRAM
+"441",Guerrero,"453",Isaac Garza,C-2000,SINTRAM
+"442",Guerrero,"454",Aramberri,C-2000,SINTRAM
+"443",Guerrero,"455",Arteaga,C-2000,SINTRAM
+"444",Guerrero,"456",Carlos Salazar,C-2000,SINTRAM
+"445",Guerrero,"457",Espinosa,C-2000,SINTRAM
+"446",Guerrero ,"458",General Anaya,C-2000,SINTRAM
+"447",Guerrero,"459",Victoria Guadalupe,C-2000,SINTRAM
+"448",Guerrero,"460",Henrry Dunant,C-2000,SINTRAM
+"449",Gurrero,"461",Juan I. Ramon,,SINTRAM
+"450",Guerrero,"462",Keramos,C-2000,SINTRAM
+"451",Guerrero,"463",Luis Mora,,SINTRAM
+"452",Guerrero,"464",Madero,,SINTRAM
+"453",Guerrero,"465",Matamoros,C-2000,SINTRAM
+"454",Guerrero,"466",Padre Mier,,SINTRAM
+"455",Guerrero,"467",Progreso,,SINTRAM
+"456",Guerrero,"467",Rreforma,,SINTRAM
+"457",Guerrero,"469",Ruperto Martinez,C-2000,SINTRAM
+"458",Guerrero,"471",Tapia,,SINTRAM
+"459",Guerrero,"470",Servicio Postal,C-2000,SINTRAM
+"460",Guerrero,"472",Treviño,,SINTRAM
+"461",Guerrero,"473",Washington,C-2000,SINTRAM
+"462",Hidalgo,"474",Serafin Peña,C-2000,SINTRAM
+"463",Insurgentes,"475",Bolivia,,SINTRAM
+"464",Insurgentes,"476",Acceso A Galerias,,
+"465",Insurgentes,"477",Felipe De Jesus,,SINTRAM
+"466",Isaac Garza,"478",Colegio Civil,,SINTRAM
+"467",Isaac Garza,"479",Heroes Del 47,C-2000,SINTRAM
+"468",Isaac Garza,"480",J. G. Leal,C-2000,SINTRAM
+"469",Isaac Garza,"481",Juan N. Mendez,,SINTRAM
+"470",Isaac Garza,"482",Julian Villareal,,SINTRAM
+"471",Isaac Garza,"483",Vallarta,C-2000,SINTRAM
+"472",Jose Angel Conchello,"484",Jose Marti,,SINTRAM
+"473",Jose Angel Conchello,"485",Magnolia,C-2000,SINTRAM
+"474",Jose Angel Conchello ,"486",Rafael Najera,C-2000,SINTRAM
+"475",Jose Angel Conchello ,"487",San Nicolas,C-2000,SINTRAM
+"476",Juarez,"488",Hidalgo,C-2000,SINTRAM
+"477",Juarez,"489",Isaac Garza,,SINTRAM
+"478",Juarez,"490",15 De Mayo,,SINTRAM
+"479",Juarez,"491",5 De Mayo,,SINTRAM
+"480",Juarez,"492",Aramberri,C-2000,SINTRAM
+"481",Juarez,"493",Arteaga,C-2000,SINTRAM
+"482",Juarez,"494",Carlos Salazar,,SINTRAM
+"483",Juarez,"495",Espinosa,,SINTRAM
+"484",Juarez,"496",Juan I. Ramon,C-2000,SINTRAM
+"485",Juarez,"497",Matamoros,C-2000,SINTRAM
+"486",Juarez,"498",Modesto Arreola,,SINTRAM
+"487",Juarez,"499",Morelos,C-2000,SINTRAM
+"488",Juarez,"500",Ocampo,C-2000,SINTRAM
+"489",Juarez,"501",Padre Mier,,SINTRAM
+"490",Juarez,"502",Reforma,,SINTRAM
+"491",Juarez,"503",Rueperto Martinez,,SINTRAM
+"492",Juarez,"504",Tapia,,SINTRAM
+"493",Juarez,"505",Treviño,,SINTRAM
+"494",Juarez,"506",Washington,,SINTRAM
+"495",Lazaro Cardenas,"507",Alfonso Reyes,C-2000,SINTRAM
+"496",Lazaro Cardenas,"508",Camino Al Mirador,,SINTRAM
+"497",Lazaro Cardenas,"509",Camino Al Mirador,,SINTRAM
+"498",Luis Mora,"510",Guadalupe Victoria,,SINTRAM
+"499",Luis Mora,"511",Juarez,,SINTRAM
+"500",Madero Entre Venecia,"512",Gonzalitos,,SINTRAM
+"501",Madero,"513",Amado Nervo,,
+"502",Madero,"514",Bernardo Reyes,,SINTRAM
+"503",Madero,"515",Degollado,,SINTRAM
+"504",Madero,"516",Diego De Montemayor,,SINTRAM
+"505",Madero,"517",Dr. Aguirre Pequeño,C-2000,SINTRAM
+"506",Madero,"518",Edison,,SINTRAM
+"507",Madero,"519",Emilio Carranza,,SINTRAM
+"508",Madero,"520",Felix U. Gomez,,SINTRAM
+"509",Madero,"421",Galeana,,SINTRAM
+"510",Madero,"522",J. G. Leal,,SINTRAM
+"511",Madero,"523",Juan N. Mendez,,SINTRAM
+"512",Madero,"524",Juarez,,SINTRAM
+"513",Madero,"525",Platon Sanchez,,SINTRAM
+"514",Madero,"526",Simon Bolivar,,SINTRAM
+"515",Madero,"527",Venecia,,SINTRAM
+"516",Madero,"528",Villagomez,,SINTRAM
+"517",Madero,"529",Villagran,C-2000,SINTRAM
+"518",Madero,"530",Zaragoza,,SINTRAM
+"519",Madero,"531",Zuazua,,SINTRAM
+"520",Manuel L. Barragan,"532",Martin Cabrera,,SINTRAM
+"521",Miguel Nieto,"533",Isaac Garza,,SINTRAM
+"522",Miguel Nieto,"534",Aramberri,,SINTRAM
+"523",Michel,"535",Tapia,,SINTRAM
+"524",Miguel Nieto,"536",Washgton,,SINTRAM
+"525",Moises Saenz,"538",Paseo De Los Leones,,SINTRAM
+"526",Ocampo,"539",Emilio Carranza,,SINTRAM
+"527",Pablo Gonzales,"540",Felipe De Jesus Benavides,C-2000,SINTRAM
+"528",Pablo Gonzalez Al Pte De Gonzalitos,"542",,,SINTRAM
+"529",Pablo Gonzalez,"545",San Jeronimo,C-2000,SINTRAM
+"530",Pablo Gonzalez,"546",Simon Bolivar,C-2000,SINTRAM
+"531",Padre Mier,"547",Serafin Peña,,SINTRAM
+"532",Pablo Gonzalez,"548",Enrique C. Livas,C-2000,SINTRAM
+"533",Pino Suarez,"549",Hidalgo,,SINTRAM
+"534",Pino Suarez,"550",Isaac Garza,,SINTRAM
+"535",Pino Suarez,"551",15 De Mayo,C-2000,SINTRAM
+"536",Pino Suarez,"552",5 De Mayo,,SINTRAM
+"537",Pino Suarez,"553",Aramberri,,SINTRAM
+"538",Pino Suarez,"554",Arteaga,,SINTRAM
+"539",Pino Suarez,"555",Carlos Salazar,,SINTRAM
+"540",Pino Suarez,"556",Colon,,SINTRAM
+"541",Pino Suarez,"557",Espinosa,,SINTRAM
+"542",Pino Suarez,"558",Juan I. Ramon,,SINTRAM
+"543",Pino Suarez,"559",M. M. De Llano,,SINTRAM
+"544",Pino Suarez,"560",Madero,,SINTRAM
+"545",Pino Suerez,"562",Ocampo,,SINTRAM
+"546",Pino Suarez,"561",Matamoros,,SINTRAM
+"547",Pino Suarez,"563",Padre Mier,C-2000,SINTRAM
+"548",Pino Suarez,"564",Ruperto Martinez,,SINTRAM
+"549",Pino Suarez,"565",Tapia,,SINTRAM
+"550",Pino Suarez,"566",Treviño,,SINTRAM
+"551",Pino Suarez,"567",Washington,,SINTRAM
+"552",Platon Sanchez,"568",Isaac Garza,C-2000,SINTRAM
+"553",Platon Sanchez,"569",Aramberri,,SINTRAM
+"554",Platon Sanchez,"570",Tapia,,SINTRAM
+"555",Platon Sanchez,"571",Washington,,SINTRAM
+"556",Revolucion,"572",Alfonso Reyes,C-2000,SINTRAM
+"557",Revolucion,"573",Chapultepec,C-2000,SINTRAM
+"558",Revolucion,"574",Jose Alvarado,C-2000,SINTRAM
+"559",Revolucion,"575",Prol. Alfonso Reyes,C-2000,SINTRAM
+"560",Revolucion  Puente Solidaridad,"576",,C-2000,SINTRAM
+"561",Revolucion,"577",Ricardo Covarrubias,C-2000,SINTRAM
+"562",Revolucion,"578",Sendero Sur,,SINTRAM
+"563",Revolucion,"579",Vascongadas,,SINTRAM
+"564",Ricardo Covarrubias,"580",J. Cantu Leal,C-2000,SINTRAM
+"565",Ricardo Covarrubias,"581",Junco De La Vega,C-2000,SINTRAM
+"566",Ricardo Covarrubias,"582",Primavera,,SINTRAM
+"567",Ruiz Cortines,"583",Gonzalitos,C-2000,SINTRAM
+"568",San Jeronimo,"584",Jardin De San Jeronimo,C-200,SINTRAM
+"569",San Jeronimo,"585",Luna Ayala,,SINTRAM
+"570",San Pedro,"586",Miravalle,C-2000,SINTRAM
+"571",Simon Bolivar,"587",Atlixco,C-2000,SINTRAM
+"572",Simon Bolivar,"588",Francisco G. Sada,C-200,SINTRAM
+"573",Simon Bolivar,"589",Moises Saenz,C-2000,SINTRAM
+"574",Simon Bolivar,"590",Tehuacan,,SINTRAM
+"575",Tapia,"591", CARVAJAL Y DE LA CUEVA,C-200,SINTRAM
+"576",Tapia,"592",Colegio Civil,,SINTRAM
+"577",Tapia,"593",Heroes Del 47,,SINTRAM
+"578",Tapia,"594",J. G. Leal,,SINTRAM
+"579",Tapia,"595",Juan N. Mendez,C-200,SINTRAM
+"580",Tapia,"596",Julian Villareal,,SINTRAM
+"581",Tapia,"597",Vallarta,,SINTRAM
+"582",Treviño,"598",Jimenez,,SINTRAM
+"583",Venustiano Carranza,"599",Hidalgo,,SINTRAM
+"584",Venustiano Carranza,"600",15 De Mayo,,SINTRAM
+"585",Venustiano Carranza,"601",5 De Mayo,,SINTRAM
+"586",Venustiano Carranza,"602",Aramberri,C-2000,SINTRAM
+"587",Venustiano Carranza,"603",Arteaga,C-2000,SINTRAM
+"588",Venustiano Carranza,"604",Carlos Salazar,,SINTRAM
+"589",Vensutiano Carranza,"605",Colon,,SINTRAM
+"590",Venustiano Carranza,"606",Isaac Garza,C-2000,SINTRAM
+"591",Venustiano Carranza,"607",Luis Mora,,SINTRAM
+"592",Venustiano Carranza,"608",Madero,,SINTRAM
+"593",Venustiano Carranza,"609",Matamoros,C-2000,SINTRAM
+"594",Venustiano Carranza,"610",Padre Mier,C-2000,SINTRAM
+"595",Venustiano Carranza,"611",Reforma,C-2000,SINTRAM
+"596",Venustiano Carranza,"612",Ruperto Martinez,,SINTRAM
+"597",Venustiano Carranza,"613",Tapia,,SINTRAM
+"598",Venustiano Carranza,"614",Treviño,,SINTRAM
+"599",Venustiano Carranza,"615",Washington,C-2000,SINTRAM
+"600",Villagomez,"616",Isaac Garza,,SINTRAM
+"601",Villagomez,"617",Tapia,,SINTRAM
+"602",Villagran,"624",Tapia,,SINTRAM
+"603",Villagran,"619",Aramberri,C-2000,SINTRAM
+"604",Villagran,"620",Arteaga,C-2000,SINTRAM
+"605",Villagran,"621",Carlos Salazar,C-2000,SINTRAM
+"606",Villagran,"622",Matamoros,C-2000,SINTRAM
+"607",Villagran,"623",Reforma,C-2000,SINTRAM
+"608",Villagran,"624",Tapia,,SINTRAM
+"609",Villagran,"625",Washington,,SINTRAM
+"610",Washington,"626",Bravo,C-2000,SINTRAM
+"611",Washington,"627",Serafin Peña,,SINTRAM
+"612",Zaragoza,"628",Isaac Garza,,SINTRAM
+"613",Zaragoza,"629",5 De Mayo,,SINTRAM
+"614",Zaragoza,"630",Aramberri,C-2000,SINTRAM
+"615",Zaragoza,"631",Arteaga,C-2000,SINTRAM
+"616",Zaragoza,"632",Carlos Salazar,,SINTRAM
+"617",Zaragoza,"633",Espinoza,,SINTRAM
+"618",Zaragoza,"634",Juan I. Ramon,C-2000,SINTRAM
+"619",Zaragoza,"635",M. M. De Llano,,SINTRAM
+"620",Zaragoza,"636",Matamoros,,SINTRAM
+"621",Zaragoza,"637",Modesto Arreola,,SINTRAM
+"622",Zaragoza,"638",Morelos,C-2000,SINTRAM
+"623",Zaragoza,"639",Ocampo,,SINTRAM
+"624",Zaragoza,"640",Padre Mier,,SINTRAM
+"625",Zaragoza,"641",Reforma,,SINTRAM
+"626",Zaragoza,"642",Ruperto Martinez,,SINTRAM
+"627",Zaragoza,"643",Tapia,,SINTRAM
+"628",Zaragoza,"644",Treviño,,SINTRAM
+"629",Zaragoza,"645",Washington,,SINTRAM
+"630",Zuazua,"646",Isaac Garza,,SINTRAM
+"631",Zuazua,"647",5 De Mayo,C-2000,SINTRAM
+"632",Zuazua,"648",Aramberri,C-2000,SINTRAM
+"633",Zuazua,"650",Carlos Salazar,,SINTRAM
+"634",Zuazua,"651",Espinoza,,SINTRAM
+"635",Zuazua,"652",Juan I. Ramon,C-2000,SINTRAM
+"636",Zuazua,"653",Matamoros,C-2000,SINTRAM
+"637",Zuazua,"654",Padre Mier,C-2000,SINTRAM
+"638",Zuazua,"655",Raymundo Jardon,C-2000,SINTRAM
+"639",Zuazua,"656",Reforma,,SINTRAM
+"640",Zuazua,"657",Ruperto Martinez,,SINTRAM
+"641",Zuazua,"658",Tapia,C-2000,SINTRAM
+"642",Zuazua,"659",Treviño,C-2000,SINTRAM
+"643",Zuazua,"660",Washington,C-2000,SINTRAM
+"644",Ruiz Cortines,"661",Estacion Ecovia (hidalgo),C-2000,SINTRAM
+"645",Ruiz Cortines,"662",Amado Nervo (rodrigo Zuriaga),C-2000,SINTRAM
+"646",Ruiz Cortines,"663",Guerrero,C-2000,SINTRAM
+"647",Ruiz Cortines,"665",Jose  Angel Conchello,C-2000,SINTRAM
+"648",Ruiz Cortines,"666",San Nicolas,C-2000,SINTRAM
+"649",Ruiz Cortines Frente A Cemex,"667",,C-2000,SINTRAM
+"650",Ruiz Cortines,"668",Diego Diaz De Berlanga,C-2000,SINTRAM
+"651",Ruiz Cortines,"669",Felix U. Gomez,C-2000,SINTRAM
+"652",Ruiz Cortines,"670",Estacion Ecovia Clinica 15,,SINTRAM
+"653",Ruiz Cortines,"671",Antonio I. Villareal,C-2000,SINTRAM
+"654",Ruiz Cortines,"672",Estacion Ecovia Bella Vista(rayon),C-2000,SINTRAM
+"655",Guerrero,"673",Sanchez Azcona,C-2000,
+"656",Ruiz Cortines,"674",Ecovia Ruiz Cortinez(laurel),C-2000,SINTRAM
+"657",Ruiz Cortines,"675",Ecovia Ruiz Cortinez (coyoacan),C-2000,SINTRAM
+"658",Ruiz Cortines,"676",Churubusco,C-2000,SINTRAM
+"659",Lincoln,"677",Pelicano,C-2000,SINTRAM
+"660",Lincoln,"678",Agami,C-2000,SINTRAM
+"661",Lincoln,"679",Pinguino,C-2000,SINTRAM
+"662",Lincoln,"680",Estacion Ecovia (cardiologia),C-2000,SINTRAM
+"663",Lincoln,"680",Maria De Jesus Candia,C-2000,SINTRAM
+"664",Lincoln,"682",Estacion Ecovia (santa Cecilia),C-2000,SINTRAM
+"665",Lincoln,"683",Leon Xiii (cesenia),C-2000,SINTRAM
+"666",Lincoln,"684",Potosi,C-2000,SINTRAM
+"667",Lincoln,"685",J. J. Hinojosa,C-2000,SINTRAM
+"668",Lincoln,"686",San Jose,C-2000,SINTRAM
+"669",Lincoln,"687",Rangel Frias,C-2000,SINTRAM
+"670",Lincoln,"688",Estacion Ecovia (rangel Frias),C-2000,SINTRAM
+"671",Lincoln,"689",Jaumave-parque Poniente,C-2000,SINTRAM
+"672",Lincoln,"690",Gonzalitos,C-2000,SINTRAM
+"673",Lincoln,"691",Estacion Ecovia (laredo),C-2000,SINTRAM
+"674",Lincoln,"692",Camargo,C-2000,SINTRAM
+"675",Lincoln,"693",Estacion Ecovia (rodrigo Gomez),C-2000,SINTRAM
+"676",Lincoln,"694",Rodrigo Gomez,C-2000,SINTRAM
+"677",Rodrigo Gomez,"695",Estacion Ecovia  (mitras),C-2000,
+"678",Ruiz Cortines,"696",Simon Bolivar,C-2000,SINTRAM
+"679",Ruiz Cortinez,"697",Alfonso Reyes,C-2000,SINTRAM
+"680",Ruiz Cortinez,"698",Jordan,C-2000,
+"681",Ruiz Cortinez,"699",Edison,C-2000,SINTRAM
+"682",Lincoln,"700",Estacion Ecovia (valle Verde),C-2000,SINTRAM
+"683",Parque Poniente,"701",Cd. Victoria,C-2000,
+"684",Lincoln,"702",Rodrigo Gomez 2,C-2000,SINTRAM
+"685",Ruiz Cortines,"703",Simon Bolivar 2,C-2000,SINTRAM
+"686",Jordan,"704",Sultepec,C-2000,
+"687",Lincoln,"706",Entrada A La Terminal De Ecovia,C-2000,SINTRAM
+"688",Lincoln,"707",Puerta De Hierro,C-2000,SINTRAM
+"689",Lincoln,"708",Los Astros,C-2000,SINTRAM
+"690",Lincoln,"709",Real Cumbres,C-2000,SINTRAM
+"691",Lincoln,"712",Ruiz Cortines,C-2000,SINTRAM
+"692",Lincoln,"713",Estacion Ecovia (embotelladora),C-2000,SINTRAM
+"693",Lincoln,"714",Colonial Mitras,C-2000,SINTRAM
+"694",Lincol,"715",Estacion Ecovia (panteon Municpal),C-2000,SINTRAM
+"695",Lincoln,"716",Aguaturma,C-2000,SINTRAM
+"696",Lincoln,"717",Estacion Ecovia (cardenal),C-2000,SINTRAM
+"697",Lincoln,"718",Cumbres Del Sol,C-2000,SINTRAM
+"698",Lincoln,"719",Luis Donaldo Colosio,C-2000,SINTRAM
+"699",Lincoln,"710",Estacion Ecovia (plumbago),C-2000,SINTRAM
+"700",Lincoln,"720",Estacion Ecovia (cumbres),C-2000,SINTRAM
+"701",Lincoln,"721",Estacion Ecovia (plutarco Elias Calles),C-2000,SINTRAM
+"702",Lincoln,"722",Asuntos Agrarios,C-2000,SINTRAM
+"703",Lincoln,"711",Aztlan,C-2000,SINTRAM
+"704",Manuel L. Barragan,"197",Mariano Salas,C-2000,
+"705",Bolivia,"84",Sudarmerica,C-200,
+"706",B. Mitre,"75",M. T. De Alvear,C-26,
+"707",Camino Real,"98",Marco,C-26,
+"708",Juarez,"496",Juan I. Ramon,,SINTRAM
+"709",San Jose,"276",Mil Cumbres,,
